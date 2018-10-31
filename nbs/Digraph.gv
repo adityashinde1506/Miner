@@ -1,0 +1,12 @@
+digraph {
+	python3 -> sysdig
+	spotify -> spotify
+	spotify -> spotify
+	spotify -> spotify
+	spotify -> spotify
+	spotify -> spotify
+	spotify -> spotify
+	spotify -> spotify
+	spotify -> spotify
+	spotify -> spotify
+}

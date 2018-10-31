@@ -24,7 +24,7 @@ def gather_data(output_file, run_time):
         Start sysdig data capture.
     """
     logging.info(f"Starting to gather data in {output_file} for {run_time}sec")
-    command = f'sysdig -p %evt.time,%proc.name,%proc.pid,%proc.pname,%proc.ppid,%evt.type'
+    command = f'sysdig -p %proc.pname,%proc.ppid,%proc.name,%proc.pid,%evt.type,%fd.filename'
     logging.debug(f"Running command: {command}")
     with open(output_file, 'w') as o_file:
         sysdig = subprocess.Popen(command.split(), stdout=o_file)
