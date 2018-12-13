@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# Check current directory
+ls
+sleep 2
+
+# Enumerate root
+ls /home/adityas/Projects/LogAnalyser/scripts/sim_dir
+sleep 4
+
+# Enumerate users
+ls /home/adityas/Projects/LogAnalyser/scripts/sim_dir/users
+sleep 2
+
+# Enumerate jdoe
+ls /home/adityas/Projects/LogAnalyser/scripts/sim_dir/users/jdoe/
+sleep 3
+
+# Enumerate secrets
+ls /home/adityas/Projects/LogAnalyser/scripts/sim_dir/users/jdoe/secrets
+sleep 1
