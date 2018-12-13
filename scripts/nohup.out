@@ -1,0 +1,8 @@
+Gtk-Message: 16:01:08.665: Failed to load module "atk-bridge"
+/usr/share/themes/Lubuntu-dark-panel/gtk-2.0/gtkrc:682: Unable to find include file: "apps/xfce4-notifyd.rc"
+Gtk-Message: 16:02:14.061: Failed to load module "atk-bridge"
+/usr/share/themes/Lubuntu-dark-panel/gtk-2.0/gtkrc:682: Unable to find include file: "apps/xfce4-notifyd.rc"
+Gtk-Message: 16:03:10.392: Failed to load module "atk-bridge"
+/usr/share/themes/Lubuntu-dark-panel/gtk-2.0/gtkrc:682: Unable to find include file: "apps/xfce4-notifyd.rc"
+Gtk-Message: 16:05:09.898: Failed to load module "atk-bridge"
+/usr/share/themes/Lubuntu-dark-panel/gtk-2.0/gtkrc:682: Unable to find include file: "apps/xfce4-notifyd.rc"

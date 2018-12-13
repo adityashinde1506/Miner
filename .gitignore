@@ -1,4 +1,7 @@
 __pycache__/
-.ipynbcheckpoints/
+.ipynb_checkpoints/
 *.wav
 data/
+*.csv
+*.png
+*.npy

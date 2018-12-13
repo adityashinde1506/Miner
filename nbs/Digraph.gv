@@ -1,0 +1,7 @@
+digraph {
+	leafpad -> xterm [label=read len=2.00]
+	leafpad -> xterm [label=close len=2.00]
+	leafpad -> "test.txt" [label=read len=2.00]
+	leafpad -> "test.txt" [label=close len=2.00]
+	leafpad -> "gconv-modules.cache" [label=close len=2.00]
+}
